@@ -2,7 +2,7 @@
 
 ## scan-1.jpg
 
-| Template                       | Size              | Style   | Line Width |         |
+| Template                       | Sizes             | Style   | Line Width |         |
 |:-------------------------------|:------------------|:--------|:-----------|:--------|
 | RapiDesign 948                 | 1/4″              | slanted | 26/600″    | 1.1mm   |
 | Berol RapiDesign R-962         | 1/8″; 3/16″; 1/4″ | upright | 18/600″    | 0.762mm |
